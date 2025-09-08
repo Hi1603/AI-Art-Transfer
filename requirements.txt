@@ -1,0 +1,13 @@
+flask
+requests
+pillow
+torch
+torchvision
+diffusers
+huggingface_hub>=0.30.0
+rembg
+onnxruntime
+trimesh
+pymeshlab
+einops
+pyngrok
